@@ -3,5 +3,5 @@
 def countdown(x)
    
   while x < 10 
-   puts "#{x}"
+   puts "#{x} "
 end
